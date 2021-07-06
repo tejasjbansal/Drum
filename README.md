@@ -2,4 +2,4 @@
 This is the simple Java script Application in which user can play different-different sounds with the press of the keyboards buttons.
 
 ## Live Application:
-tejasjbansal.github.io/drum-kit/
+https://tejasjbansal.github.io/Drum-Kit/
